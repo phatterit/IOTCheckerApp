@@ -1,0 +1,13 @@
+{
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "",
+    "app_password_encrypted": "",
+    "receivers": [
+        "",
+        "",
+        ""
+    ],
+    "last_list_path": "C:/Users/kapelusznyp/Documents/IPChecker/KRA_KD.txt",
+    "admin_password_hash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918"
+}

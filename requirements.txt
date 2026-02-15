@@ -1,0 +1,5 @@
+reportlab
+ping3
+cryptography
+Pillow
+pyinstaller

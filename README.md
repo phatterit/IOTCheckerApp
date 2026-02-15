@@ -40,6 +40,7 @@ Projekt został zbudowany przy użyciu:
 
    ```bash
     pip install -r requirements.txt
+    py -m pip install -r requirements.txt
 
 3. Uruchom aplikację:
 

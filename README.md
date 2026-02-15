@@ -31,7 +31,7 @@ Projekt został zbudowany przy użyciu:
 
 1. Sklonuj repozytorium:
    ```bash
-   git clone [https://github.com/phatterit/IOTCheckerApp.git][(https://github.com/phatterit/IOTCheckerApp)]
+   git clone https://github.com/phatterit/IOTCheckerApp.git
 2. Zainstaluj wymagane biblioteki:
 
    ```bash

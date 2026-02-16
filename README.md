@@ -1,5 +1,5 @@
 # IOTCheckerApp 🛡️
-Zaawansowane narzędzie desktopowe (GUI) do monitorowania stanu urządzeń sieciowych (IOT, PLC, Kamery) w czasie rzeczywistym. Oferuje auto-ping, raporty PDF, powiadomienia e-mail oraz bezpieczne szyfrowanie haseł.
+Narzędzie desktopowe (GUI) do monitorowania stanu urządzeń sieciowych (IOT, PLC, Kamery) w czasie rzeczywistym. Oferuje auto-ping, raporty PDF, powiadomienia e-mail oraz bezpieczne szyfrowanie haseł.
 
 IOTCheckerApp to profesjonalna aplikacja desktopowa napisana w Pythonie, służąca do zarządzania i monitorowania dostępności urządzeń w sieci lokalnej (np. sterowniki PLC, kamery, systemy KD, drukarki). Program pozwala na organizację urządzeń w zakładkach, automatyczne sprawdzanie ich statusu (Ping) oraz generowanie raportów.
 
